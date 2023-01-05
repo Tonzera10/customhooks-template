@@ -12,3 +12,7 @@ export const CardContainer = styled.div`
   
   
 `;
+
+export const StyleImage = styled.img`
+  width: 50px;
+` 
